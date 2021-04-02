@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Challenge_2__Claims__Library</RootNamespace>
+  </PropertyGroup>
+
+</Project>

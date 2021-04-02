@@ -1,0 +1,12 @@
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Challenge_4_(Outlings)_Library\bin\Debug\net5.0\Challenge_4_(Outlings)_Library.deps.json
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Challenge_4_(Outlings)_Library\bin\Debug\net5.0\Challenge_4_(Outlings)_Library.dll
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Challenge_4_(Outlings)_Library\bin\Debug\net5.0\ref\Challenge_4_(Outlings)_Library.dll
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Challenge_4_(Outlings)_Library\bin\Debug\net5.0\Challenge_4_(Outlings)_Library.pdb
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Challenge_4_(Outlings)_Library\obj\Debug\net5.0\Challenge_4_(Outlings)_Library.csprojAssemblyReference.cache
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Challenge_4_(Outlings)_Library\obj\Debug\net5.0\Challenge_4_(Outlings)_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Challenge_4_(Outlings)_Library\obj\Debug\net5.0\Challenge_4_(Outlings)_Library.AssemblyInfoInputs.cache
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Challenge_4_(Outlings)_Library\obj\Debug\net5.0\Challenge_4_(Outlings)_Library.AssemblyInfo.cs
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Challenge_4_(Outlings)_Library\obj\Debug\net5.0\Challenge_4_(Outlings)_Library.csproj.CoreCompileInputs.cache
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Challenge_4_(Outlings)_Library\obj\Debug\net5.0\Challenge_4_(Outlings)_Library.dll
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Challenge_4_(Outlings)_Library\obj\Debug\net5.0\ref\Challenge_4_(Outlings)_Library.dll
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Challenge_4_(Outlings)_Library\obj\Debug\net5.0\Challenge_4_(Outlings)_Library.pdb

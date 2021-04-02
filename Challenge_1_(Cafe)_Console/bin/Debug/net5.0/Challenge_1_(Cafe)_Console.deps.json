@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Challenge_1_(Cafe)_Console/1.0.0": {
+        "dependencies": {
+          "Challenge_1_(Cafe)_Library": "1.0.0"
+        },
+        "runtime": {
+          "Challenge_1_(Cafe)_Console.dll": {}
+        }
+      },
+      "Challenge_1_(Cafe)_Library/1.0.0": {
+        "runtime": {
+          "Challenge_1_(Cafe)_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge_1_(Cafe)_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Challenge_1_(Cafe)_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

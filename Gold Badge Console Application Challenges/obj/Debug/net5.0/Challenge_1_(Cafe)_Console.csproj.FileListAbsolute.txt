@@ -1,0 +1,38 @@
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Console.exe
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Console.deps.json
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Console.runtimeconfig.json
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Console.runtimeconfig.dev.json
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Console.dll
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\ref\Challenge_1_(Cafe)_Console.dll
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Console.pdb
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Library.dll
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Library.pdb
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.csprojAssemblyReference.cache
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.AssemblyInfoInputs.cache
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.AssemblyInfo.cs
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.csproj.CoreCompileInputs.cache
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.csproj.CopyComplete
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.dll
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\ref\Challenge_1_(Cafe)_Console.dll
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.pdb
+C:\Users\2003k\source\repos\Gold Badge Console Application Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.genruntimeconfig.cache
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Console.exe
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Console.deps.json
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Console.runtimeconfig.json
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Console.runtimeconfig.dev.json
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Console.dll
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\ref\Challenge_1_(Cafe)_Console.dll
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Console.pdb
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Library.dll
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\bin\Debug\net5.0\Challenge_1_(Cafe)_Library.pdb
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.csprojAssemblyReference.cache
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.AssemblyInfoInputs.cache
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.AssemblyInfo.cs
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.csproj.CoreCompileInputs.cache
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.csproj.CopyComplete
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.dll
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\ref\Challenge_1_(Cafe)_Console.dll
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.pdb
+C:\Users\2003k\source\repos\Gold_Badge_Console_Application_Challenges\Gold Badge Console Application Challenges\obj\Debug\net5.0\Challenge_1_(Cafe)_Console.genruntimeconfig.cache
